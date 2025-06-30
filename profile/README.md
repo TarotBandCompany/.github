@@ -17,8 +17,8 @@ Our mission is to empower individuals on their journey to self-awareness and emo
 
 ## 👨‍💼 Team Members
 
-* **[Backend Lead](https://github.com/pirat4365)** – Architecture, backend, infrastructure
-* **[Flutter Lead](https://github.com/egrischenkov)** – Mobile app, cross-platform experience
+* **[Andrey Yakovlev - Backend Lead](https://github.com/pirat4365)** – Architecture, backend, infrastructure
+* **[Egor Grischenkov - Flutter Lead](https://github.com/egrischenkov)** – Mobile app, cross-platform experience
 
 ## 🔧 Tech Stack Highlights
 
