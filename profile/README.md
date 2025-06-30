@@ -12,7 +12,7 @@ Our mission is to empower individuals on their journey to self-awareness and emo
 
 ## 📂 Repositories
 
-* `tarot-app`: Core API, user logic, tarot reading engine, and integrations.
+* `tarot-app`: Flutter Application.
 * `tarot-admin-panel`: Internal dashboard for content, user, and reading management.
 
 ## 👨‍💼 Team Members
