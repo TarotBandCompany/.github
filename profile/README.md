@@ -14,6 +14,7 @@ Our mission is to empower individuals on their journey to self-awareness and emo
 
 * `tarot-app`: Flutter Application.
 * `tarot-admin-panel`: Internal dashboard for content, user, and reading management.
+* `tarot-backend`: Backend
 
 ## 👨‍💼 Team Members
 
